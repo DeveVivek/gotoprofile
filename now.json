@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "gotoprofile",
+  "name": "gotoprofile",
+  "builds": [{ "src": "package.json", "use": "@now/next" }]
+}
